@@ -1,8 +1,18 @@
-# hugo-toha.github.io
+![gridster preview](/img/gridster_preview.jpg)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b1b93b02-f278-440b-ae1b-304e9f4c4ab5/deploy-status)](https://app.netlify.com/sites/toha/deploys) [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fhugo-toha%2Fhugo-toha.github.io%2Fbadge%3Fref%3Dsource&style=flat)](https://actions-badge.atrox.dev/hugo-toha/hugo-toha.github.io/goto?ref=source) ![Repository Size](https://img.shields.io/github/repo-size/hugo-toha/hugo-toha.github.io) ![Contributor](https://img.shields.io/github/contributors/hugo-toha/hugo-toha.github.io) ![Last Commit](https://img.shields.io/github/last-commit/hugo-toha/hugo-toha.github.io) ![License](https://img.shields.io/github/license/hugo-toha/hugo-toha.github.io) ![Open Issues](https://img.shields.io/github/issues/hugo-toha/hugo-toha.github.io?color=important) ![Open Pull Requests](https://img.shields.io/github/issues-pr/hugo-toha/hugo-toha.github.io?color=yellowgreen) ![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fhugo-toha.github.io%2F) [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/b7cb60ab/hugo-toha.github.io)
+## Multimedia
+If we had to choose one word to describe Gridster that would be it. Gridster is a theme that focusses on multimedia. It contains different post types to create video posts, audio posts, image post or gallery posts with ease. We created a ton of Variables, that make customization super easy.
 
-An example hugo static site with Toha theme.
+This theme is powerful and it comes with a few extras. It also comes with a lot of different layouts for you and in pretty material design.
 
-Attributions:
-- <a href='https://www.freepik.com/vectors/business'>Business vector created by studiogstock - www.freepik.com</a>
+## Features
+The theme comes with a grunt file, which means that working with it is super easy. We have Tasks that compile, concatenate, minify and even deploy to your site.
+
+### Extensive Documentation
+We don't believe in delivering Code without explanation. So we wrote an extensive Documentation for Twister that goes over every single step from installing all of the dependencies to explaining how to customize, create posts and publish. We even tell you how you can host Twister with Plugins on GitHub pages.
+
+Check the [Docs](http://gridster.digitalmind.ch/documentation/) out.
+
+### Feedback, Wishes, Problems
+If you run into any trouble or have a request please do so by opening up an issue on the theme's GitHub page.
+If you just want to give us a general feedback feel free to [contact us!](http://digitalmind.ch/contact/)
