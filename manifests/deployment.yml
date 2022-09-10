@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "jlcluster-5577"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: "jlcluster-5577"
+  template:
+    metadata:
+      labels:
+        app: "jlcluster-5577"
+    spec:
+      containers:
+        - name: "jlcluster-5577"
+          image: "juncontainerregistry.azurecr.io/jlcluster"
+          ports:
+          - containerPort: 80
